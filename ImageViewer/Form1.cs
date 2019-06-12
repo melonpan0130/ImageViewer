@@ -12,7 +12,7 @@ namespace ImageViewer
 {
     public partial class Form1 : Form
     {
-        int imgCount=0;
+        int imgCount = 0; // Number of image now
         public Form1()
         {
             InitializeComponent();
